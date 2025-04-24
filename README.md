@@ -22,13 +22,7 @@ This is a **practice Power BI dashboard** created using dummy Zomato-style data.
 Here are some images of the dashboard:
 
 ### 1. Overall Dashboard View
-![Dashboard Overview](assets/dashboard_overview.png)
-
-### 2. Cuisine Popularity
-![Cuisine Popularity](assets/cuisine_popularity.png)
-
-### 3. Rating Breakdown
-![Rating Breakdown](assets/rating_breakdown.png)
+![Dashboard Overview](assets/dashboard.png)
 
 ---
 
