@@ -22,7 +22,7 @@ This is a **practice Power BI dashboard** created using dummy Zomato-style data.
 Here are some images of the dashboard:
 
 ### 1. Overall Dashboard View
-![Dashboard Overview](assets/dashboard.png)
+![Dashboard Overview](assets/dashboard)
 
 ---
 
