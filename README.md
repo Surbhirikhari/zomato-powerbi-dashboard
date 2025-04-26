@@ -26,8 +26,9 @@ Here are some images of the dashboard:
 
 ---
 
+
 ## 🙋‍♂️ About This Project
 
 This is a personal learning project aimed at improving Power BI skills. It focuses on layout design, interactive visuals, and real-world dashboard scenarios (even though the data is fictional).
 
-
+Feel free to give your feedback!!!
